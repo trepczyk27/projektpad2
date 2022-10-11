@@ -1,0 +1,7 @@
+
+10 ! ADAM ! NOWAK ! 4PR ! ;
+11 ! KUBA ! KOWALSKI ! 3EK ! ;
+14 ! KAMIL ! SZUKACZ ! 1EL ! ;
+23 ! FILIP ! MASLAK ! 2CH ! 1 ;
+5 ! MACIEK ! NOSIEK ! 1F ! 17 ;
+10 ! Adam ! Nowak ! 4PR ! ;
